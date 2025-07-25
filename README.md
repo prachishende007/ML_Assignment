@@ -1,5 +1,22 @@
-#Machine Learning Assignments
+# 🧠 Machine Learning Assignments Repository
 
-Welcome to my Machine Learning Repository!! This repository has various MAchine Learning Assignments Covering Important concepts of Machine Learning.
+Welcome to the **Machine Learning Assignments** repository!  
+This collection of assignments is designed to help you understand and implement **core concepts of Machine Learning** through practical examples and exercises.
 
-The dataset used is also given in the folder.
+---
+
+## 📚 What's Inside?
+
+- ✅ Multiple hands-on **Machine Learning Assignments**
+- 📌 Covers key topics such as:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Model Evaluation & Validation
+  - Feature Engineering
+  - and more!
+- 📂 **Dataset included** in the repository for easy access and experimentation.
+
+---
+
+## 📁 Folder Structure
+
