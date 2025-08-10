@@ -20,3 +20,21 @@ This collection of assignments is designed to help you understand and implement 
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🎯 Objective
+
+This repository aims to:
+
+- Reinforce theoretical knowledge through implementation
+- Provide practical exposure to real-world ML problems
+- Encourage experimentation and learning
+
+---
+
+## 🚀 Get Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/prachishende007/ML_Assignments.git
