@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Assignments Repository
+# 🧠 Machine Learning Assignments 
 
 Welcome to the **Machine Learning Assignments** repository!  
 This collection of assignments is designed to help you understand and implement **core concepts of Machine Learning** through practical examples and exercises.
@@ -27,7 +27,6 @@ This collection of assignments is designed to help you understand and implement 
 
 This repository aims to:
 
-- Reinforce theoretical knowledge through implementation
 - Provide practical exposure to real-world ML problems
 - Encourage experimentation and learning
 
